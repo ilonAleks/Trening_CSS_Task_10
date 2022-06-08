@@ -1,0 +1,30 @@
+body {
+	width: 600px;
+	padding: 2px 30px;
+	margin: 20px;
+	box-sizing: border-box;
+	border-left: 1px solid #c0c0c0;
+	font-size: 15px
+}
+
+.link {
+	padding: 2px;
+	background-color: #F5F5F5;
+	border: 1px solid #C0C0C0;
+	font-size: 12px
+}
+
+.scroll {
+	white-space: nowrap;
+	/*Свойство white-space управляет тем, как обрабатываются пробельные символы внутри элемента.*/
+	overflow-x: scroll;
+}
+
+.blue-text {
+	color: #87ceeb
+}
+
+.grey-text {
+	color: grey;
+	font-style: italic
+}
